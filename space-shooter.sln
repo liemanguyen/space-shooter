@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2017
+# Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "space-shooter", "space-shooter.csproj", "{D1A2F8D9-E6AB-DD57-DBB9-697DEF0D2FA6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "space-shooter.Editor", "space-shooter.Editor.csproj", "{E0A00652-110C-83DD-BBB6-938808364571}"
